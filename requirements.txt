@@ -1,0 +1,3 @@
+nemo-toolkit[asr]==1.23.0
+huggingface_hub==0.23.2 # потому что немо криво версию указало и с 0.25.0 не работает, хотя разрешает https://github.com/NVIDIA/NeMo/blob/d2283e3620cd7f99dbe29fdf079757ab9f6cdf01/requirements/requirements.txt#L1
+numpy==1.26.4
